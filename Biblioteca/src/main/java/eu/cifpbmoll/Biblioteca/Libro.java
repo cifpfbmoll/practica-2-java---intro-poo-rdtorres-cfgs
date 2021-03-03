@@ -21,7 +21,6 @@ public class Libro {
 	
     //Constructores
     public Libro() {
-    	titulosDistintos ++;
 	}
     
     public Libro(int ISBN, String titulo, String autor, String editorial, int NumeroCopiasTotales, int NumeroCopiasDisponibles) {
